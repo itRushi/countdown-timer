@@ -1,4 +1,8 @@
 Countdown Timer
+
+![Screenshot (1124)](https://github.com/user-attachments/assets/0fc91626-d677-4b35-be36-1114b0cf349e)
+
+
 This is a simple countdown timer built with HTML, CSS, and JavaScript. It provides a clean and minimalistic design with the ability to start, pause, and reset the countdown. The timer will display an alert when it reaches zero.
 
 Features
